@@ -23,7 +23,7 @@ repository               : "g-strehle/g-strehle.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ginni_strehle.png"
   name             : "Ginni Strehle"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student - Cognition and Cognitive Neuroscience"
