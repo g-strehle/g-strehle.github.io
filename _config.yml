@@ -24,13 +24,13 @@ repository               : "g-strehle/g-strehle.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ginni Strehle"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. student - Cognition and Cognitive Neuroscience"
+  location         : "Nashville, TN"
+  employer         : "Vanderbilt University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "virginia.e.strehle@vanderbilt.edu" 
 
   # Academic websites
   academia         : # URL
