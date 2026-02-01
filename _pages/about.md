@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+My name is Virginia, but I go by Ginni. I am a second-year Ph.D. student at Vanderbilt University.
