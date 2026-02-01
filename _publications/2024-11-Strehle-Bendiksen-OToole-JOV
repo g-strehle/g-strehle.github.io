@@ -1,0 +1,14 @@
+---
+title: "Deep convolutional neural networks are sensitive to face configuration"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-11-Strehle-Bendiksen-OToole-JOV
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024-11
+venue: 'Journal of Vision'
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://g-strehle.github.io/files/paper1.pdf'
+bibtexurl: 'https://g-strehle.github.io/files/bibtex1.bib'
+citation: 'Strehle, V. E., Bendiksen, N. K., & O’Toole, A. J. (2024). Deep convolutional neural networks are sensitive to face configuration. Journal of Vision, 24(12), 6-6.'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
