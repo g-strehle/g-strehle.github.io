@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Twin identification over viewpoint change: A deep convolutional neural network surpasses humans"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+# permalink: /publication/2015-10-01-paper-title-number-3
+# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2022-07-12
+venue: 'ACM Transactions on Applied Perception'
+# slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://academicpages.github.io/files/2022-07-Parde-Strehle-Banerjee-Hu-Cavasos-Castillo-OToole-ACMTAP.pdf'
+citation: 'Parde, C. J., Strehle, V. E., Banerjee, V., Hu, Y., Cavazos, J. G., Castillo, C. D., & O’Toole, A. J. (2023). Twin identification over viewpoint change: A deep convolutional neural network surpasses humans. ACM transactions on applied perception, 20(3), 1-15.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
