@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (January 2026)"
 permalink: /cv/
 author_profile: true
 redirect_from:
